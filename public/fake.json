@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://example.com/images/cover1.jpg",
+      "title": "Exploring the Future of Web Development",
+      "author_name": "Alex Johnson",
+      "author_img": "https://example.com/images/authors/alex.jpg",
+      "posted_date": "2025-01-01",
+      "reading_time": 8,
+      "hashtags": ["#WebDevelopment", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://example.com/images/cover2.jpg",
+      "title": "Mastering JavaScript in 30 Days",
+      "author_name": "Emily Davis",
+      "author_img": "https://example.com/images/authors/emily.jpg",
+      "posted_date": "2024-12-15",
+      "reading_time": 10 ,
+      "hashtags": ["#JavaScript", "#Coding", "#Learning"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://example.com/images/cover3.jpg",
+      "title": "CSS Secrets for Stunning Websites",
+      "author_name": "Michael Lee",
+      "author_img": "https://example.com/images/authors/michael.jpg",
+      "posted_date": "2025-01-03",
+      "reading_time": 5,
+      "hashtags": ["#CSS", "#WebDesign", "#Tips"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://example.com/images/cover4.jpg",
+      "title": "React: Tips and Tricks for Beginners",
+      "author_name": "Sophia Martinez",
+      "author_img": "https://example.com/images/authors/sophia.jpg",
+      "posted_date": "2024-11-20",
+      "reading_time": 12,
+      "hashtags": ["#ReactJS", "#Frontend", "#Beginners"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://example.com/images/cover5.jpg",
+      "title": "A Guide to Tailwind CSS",
+      "author_name": "Daniel Brown",
+      "author_img": "https://example.com/images/authors/daniel.jpg",
+      "posted_date": "2025-01-02",
+      "reading_time": 7,
+      "hashtags": ["#TailwindCSS", "#CSSFramework", "#Design"]
+    }
+  ]
+  
